@@ -1,4 +1,6 @@
 {
     "name": "WikiZone",
-    "ver": "by 韬小虾"
+    "ver": "by 韬小虾",
+    "testing": true,
+    "page-mounts": true
 }
